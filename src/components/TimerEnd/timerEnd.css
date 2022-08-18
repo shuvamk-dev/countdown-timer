@@ -1,0 +1,8 @@
+.timer-end {
+  border: 2px solid #495057;
+  border-radius: 20px;
+  padding: 48px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+}

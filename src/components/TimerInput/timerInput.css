@@ -1,0 +1,43 @@
+.timer-input-wrapper {
+  border: 2px solid #495057;
+  display: flex;
+  padding: 8px;
+  border-radius: 72px;
+  width: 30%;
+}
+
+.timer-input {
+  outline: none;
+  border-radius: inherit;
+  background-color: transparent;
+  border: none;
+  color: white;
+  display: flex;
+  flex: 7;
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-weight: 700;
+  padding-left: 24px;
+}
+
+.timer-start {
+  cursor: pointer;
+  border-radius: inherit;
+  background: linear-gradient(
+    126.21deg,
+    #6a35ee 0%,
+    #9930ef 14.24%,
+    #5737ee 49.56%,
+    #795ceb 93.2%
+  );
+  display: flex;
+  flex: 3;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 40px;
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-weight: 700;
+}

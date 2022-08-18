@@ -1,0 +1,19 @@
+.timer-card {
+  padding: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 2px solid #495057;
+  border-radius: 32px;
+  width: 150px;
+}
+
+.timer-card-time {
+  font-size: 48px;
+  font-weight: 600;
+}
+
+.timer-card-label {
+  font-weight: 600;
+}
